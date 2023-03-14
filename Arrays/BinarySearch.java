@@ -1,5 +1,7 @@
-//Binary Search in an Array
+
 package Arrays;
+
+// Binary Search in an Array
 
 public class BinarySearch {
     public static int binSearch(int arr[], int key) {
